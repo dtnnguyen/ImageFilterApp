@@ -9,7 +9,6 @@ In this app, the user can select an image from the album or from the camera. Tap
 
 The image filter is applied pixel per pixel as specified in Week 4 of Course 1 – “Introduction to Swift”. This method is to demonstrate pixel manipulation and it is also not very efficient for a large image. Hence, an activity control is activated when an image filter is applying to indicate to the user the app is busy.
 
-# Finished App
-ImageFilterApp/ImageFilterApp/Images/imageFilterApp.gif
+## Finished App
 
-![Fininshed App](https://github.com/dtnnguyen/ImageFilterApp/ImageFilterApp/Images/imageFilterApp.gif)
+![Finished App](https://github.com/dtnnguyen/ImageFilterApp/blob/master/ImageFilterApp/Images/imageFilterApp.gif)
